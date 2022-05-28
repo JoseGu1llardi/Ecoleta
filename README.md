@@ -107,7 +107,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone [https://github.com/tgmarinho/nlw1](https://github.com/JoseGu1llardi/Ecoleta)
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw1
@@ -128,7 +128,7 @@ $ npm run dev:server
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone [https://github.com/tgmarinho/nlw1](https://github.com/JoseGu1llardi/Ecoleta)
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd nlw1
@@ -162,7 +162,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+Feito com ❤️ por Guillardi.
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
